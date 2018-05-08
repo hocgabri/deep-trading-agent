@@ -1,7 +1,7 @@
 import json
 
 from os.path import join
-from ConfigParser import ConfigParser
+from configparser import ConfigParser
 
 from utils.constants import *
 from utils.strings import *
